@@ -1,0 +1,4 @@
+id: file:///C:/Users/Usuario/Desktop/hello-world/src/main/scala/TipoDeDatos.scala:[7..7) in Input.VirtualFile("file:///C:/Users/Usuario/Desktop/hello-world/src/main/scala/TipoDeDatos.scala", "object ")
+file:///C:/Users/Usuario/Desktop/hello-world/src/main/scala/TipoDeDatos.scala:1: error: expected identifier; obtained eof
+object 
+       ^
