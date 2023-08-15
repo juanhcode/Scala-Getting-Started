@@ -16,4 +16,8 @@ object Main extends App {
   // Crear variables en modo Lazy
   lazy val x: Double = 1 / 0;
 
+
+  //variables por defecto solo con var
+  var a: String = _;
+
 }

@@ -19,5 +19,9 @@ object Bucles {
     var x: Int = 0;
     x >=0;
   do print(".");
+
+  for( z <- 1 until 10 if z%2==0){
+    println(z);
+  }
   
 }
